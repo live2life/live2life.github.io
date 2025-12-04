@@ -7,7 +7,7 @@ url: "https://live2lfe.github.io"
 baseurl: ""                # 仓库名=用户名.github.io，留空
 
 # 外观
-theme: jekyll-theme-minimal
+theme: minima
 
 # 插件
 plugins:
