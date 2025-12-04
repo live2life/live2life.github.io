@@ -1,15 +1,7 @@
-# 站点信息
 title: LIVE2LIFE developer blog
 description: 记录开发信息
-
-# 网址
 url: "https://live2lfe.github.io"
-baseurl: ""                # 仓库名=用户名.github.io，留空
-
-# 外观
+baseurl: ""
 theme: minima
-
-# 插件
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
